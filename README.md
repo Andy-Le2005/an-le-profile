@@ -1,16 +1,16 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Quang Khang An Le
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
-## ⚒️ Skills
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+_I am a student learning Git, GitHub, and Linux through practical lab activities. I enjoy learning by checking what changed and understanding why._
+## ⚒️ What I Am Learning
+- Using Git to track changes and manage commits.
+- Working with branches and pull requests on GitHub.
+- Using SSH authentication to connect my Kali Linux VM to GitHub.
 ## 🎉 Interests
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
+- Linux and command-line tools.
+- Version control and collaborative software development.
+- Improving my technical troubleshooting skills.
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+[![GitHub](https://github.com/Andy-Le2005)]
+[![LinkedIn](https://www.linkedin.com/in/l%C3%AA-quang-khang-an-5aa68129a/)]
 
-_"Your sample quote here!"_
+
